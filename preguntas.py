@@ -109,7 +109,7 @@ def pregunta_09():
     Agregue el año como una columna al archivo `tbl0.tsv`.
     Rta/
         _c0 _c1  _c2         _c3  year
-    0     0   E    1  1999-02-28  1999
+    0     0   E    1  1999-02-28  1999 
     1     1   A    2  1999-10-28  1999
     2     2   B    5  1998-05-02  1998
     ...
